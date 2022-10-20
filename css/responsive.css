@@ -1,0 +1,910 @@
+
+@media (max-width: 320px) { 
+.navbar-toggler i{
+    color: #ffffff;
+}
+#banner .banner_text h2 {
+	font-size: 36px;
+	line-height: 57px;
+}
+.nav_main {
+	padding: 5px 0 !important;
+}
+.navbar-light .navbar-toggler {
+	color: transparent;
+	border: 1px solid #ffffff;
+}
+.nav_main ul li a{
+	text-align: center;
+}
+.nav_icon{
+	text-align: center;
+}
+#banner {
+	padding-bottom: 40px;
+	padding-top: 126px;
+}
+
+#banner .banner_icon {
+	padding-top: 40px;
+}
+#banner .banner_text a {
+	padding: 10px 15px;
+	margin-top: 16px;
+}
+#about .about_head h3 {
+	font-size: 31px;
+	line-height: 45px;
+}
+#about {
+	padding: 20px 0;
+}
+
+#about .about_text h4 {
+	font-size: 20px;
+}
+#about .about_text p {
+	font-size: 16px;
+	padding-top: 10px;
+}
+
+#about .about_text a {
+	padding: 10px 15px;
+	font-size: 20px;
+	margin-top: 10px;
+}
+
+#about .counter_item {
+	padding: 5px 5px;
+    margin-bottom: 10px;
+
+}
+
+#about .counter_item span {
+	font-size: 40px;
+}
+
+#about .counter_item a {
+	font-size: 40px;
+}
+#popular .popular_head h3 {
+	font-size: 30px;
+	line-height: 35px;
+}
+#popular .popular_head h3::after {
+	width: 80px;
+	bottom: 5px;
+	right: 90px;
+}
+
+#popular {
+	padding: 20px 0;
+}
+.slick-slide img {
+	width: 150px;
+}
+.popularak {
+	top: 64% !important;
+	right: 5% !important;
+	font-size: 16px;
+	height: 30px;
+	width: 30px;
+	line-height: 30px !important;
+	
+}
+.populardui{
+	top: 80% !important;
+	right: 5% !important;
+	font-size: 16px;
+	height: 30px;
+	width: 30px;
+	line-height: 30px !important;
+	
+}
+#video {
+	padding: 30px 0;
+}
+#video .video_head h3 {
+	font-size: 30px;
+	line-height: 40px;
+}
+#video .video_item {
+	margin-bottom: 30px;
+}
+#video .contest_left {
+	padding: 5px 0px;
+}
+
+#video .contest_left a {
+	font-size: 27px;
+	line-height: 48px;
+	padding-left: 28px;
+	
+}
+#video .contest_right {
+	padding: 5px 0px;
+}
+
+
+#video .contest_right a {
+	font-size: 27px;
+	line-height: 48px;
+	padding-right: 18px;
+}
+
+#video .contest_middle a {
+	font-size: 30px;
+}
+#sell {
+	padding: 30px 0;
+}
+#sell .sell_heding h3 {
+	font-size: 30px;
+	line-height: 35px;
+}
+#sell .sell_heding h3::after {
+	width: 80px;
+	bottom: 5px;
+	right: 69px;
+}
+#sell .sell_item_text h5{
+    font-size: 19px;
+}
+#sell .catalog_text h4 {
+	font-size: 30px;
+	line-height: 39px;
+}
+
+#store .store_head h3 {
+	font-size: 30px;
+	line-height: 40px;
+}
+
+#store {
+	padding: 20px 0;
+}
+
+
+#store .pre {
+	left: 1%;
+	
+}
+
+#store .next {
+	right: 1%;
+
+}
+
+#team {
+	padding: 20px 0;
+}
+
+#store .store_item h4 {
+	font-size: 30px;
+	line-height: 40px;
+	padding-bottom: 5px;
+}
+
+#store .store_item h5 {
+	font-size: 18px;
+	line-height: 27px;
+	padding-top: 20px;
+}
+
+#team .team_head h3 {
+	font-size: 30px;
+	line-height: 39px;
+}
+#team .team_head h3::after {
+	width: 80px;
+	bottom: 7px;
+	right: 70px;
+}
+
+#team .team_item .team_item_overly p {
+	font-size: 14px;
+}
+#team .team_item {
+	margin: 10px 0;
+}
+
+#faq {
+	padding: 20px 0;
+}
+
+#faq .faq_head h3 {
+	font-size: 30px;
+	line-height: 40px;
+
+}
+
+#faq .faq_inner_main .faq_right h4 {
+	font-size: 20px;
+	line-height: 25px;
+}
+
+#faq .faq_inner_main .faq_right p {
+	font-size: 14px;
+	line-height: 20px;
+}
+
+#faq .faq_inner_main::after {
+	bottom: 8px;
+}
+
+.subs_bg{
+    padding: 20px 10px;
+}
+
+
+#subs .sub_left h3 {
+	font-size: 30px;
+	line-height: 40px;
+}
+#subs .subs_right a {
+margin-top: 3px;
+margin-left: 50px;
+}
+#subs .subs_right a:hover{
+    color: #FF4655;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+	background-color: #ffffff;
+}
+#footer .foter_one{
+    text-align: center;
+}
+
+#footer .foter_two{
+    text-align: center;
+    margin-top: 10px;
+
+}
+
+#footer .foter_three{
+    text-align: center;
+    margin-top: 10px;
+}
+#footer .foter_four{
+    text-align: center;
+    margin-top: 10px;
+}
+#footer .foter_one_icon{
+    text-align: center;
+}
+}
+
+
+@media (min-width: 321px) and (max-width: 480px) {
+	.navbar-toggler i{
+		color: #ffffff;
+		font-size: 22px;
+	}
+	.navbar-light .navbar-toggler {
+		color: transparent;
+		border: 1px solid #ffffff;
+	}
+
+	.nav_main ul li a{
+		text-align: center;
+	}
+	.nav_icon{
+		text-align: center;
+	}
+	.nav_main {
+		padding: 8px 0 !important;
+	}
+	
+	#banner {
+		padding-bottom: 40px;
+		padding-top: 130px;
+	}
+	
+	#banner .banner_text h2 {
+		font-size: 35px;
+	}
+
+	#banner .banner_text h2::after {
+		opacity: 0;
+	}
+
+	#banner .banner_icon {
+		padding-top: 60px;
+	}
+
+	#about .about_head h3 {
+		font-size: 33px;
+	}
+
+	#about .about_head h3::after {
+		opacity: 0;
+	}
+
+	#about .counter_item {
+     margin-top: 20px;
+	}
+
+	#popular .popular_head h3::after {
+		opacity: 0;
+	}
+
+	#popular .slick-slide img {
+		width: 100%;
+	}
+	.popularak {
+		top: 64% !important;
+		right: 5% !important;
+		font-size: 16px;
+		height: 30px;
+		width: 30px;
+		line-height: 30px !important;
+		
+	}
+	.populardui{
+		top: 75% !important;
+		right: 5% !important;
+		font-size: 16px;
+		height: 30px;
+		width: 30px;
+		line-height: 30px !important;
+		
+	}
+	#video .video_head h3::after {
+		opacity: 0;
+	}
+	#video .video_item {
+		margin-top: 30px;
+	}
+
+	#video .contest_left {
+		padding: 5px 10px;
+	}
+	#video .contest_left a {
+		padding-left: 0;
+	}
+
+	#video .contest_right a {
+		padding-right: 0;
+	}
+
+	#video .contest_right {
+		padding: 5px 10px;
+	}
+
+	#sell {
+		padding: 48px 0;
+	}
+
+	#store {
+		padding: 40px 0;
+	}
+	#store .store_head h3::after {
+		opacity: 0;
+	}
+	#team {
+		padding: 50px 0;
+	}
+
+	#team .team_item {
+	margin-top: 20px;
+	}
+
+
+	#faq .faq_inner_main::after {
+		bottom: 13px;
+	}
+
+
+	#store .pre {
+		top: 65%;
+		left: 1%;
+	}
+	#store .next {
+		right: 1%;
+		top: 65%;
+
+	}
+
+	#sell .sell_heding h3::after {
+		opacity: 0;
+	}
+
+	#subs .subs_right a {
+		margin-left: 50px;
+	}
+	#faq .faq_head h3::after {
+	opacity: 0;
+	}
+.foter_one{
+	text-align: center;
+}
+
+
+.foter_two{
+	text-align: center;
+	margin-top: 10px;
+}
+
+.foter_three{
+	text-align: center;
+	margin-top: 10px;
+}
+
+
+
+.foter_four{
+	text-align: center;
+	margin-top: 10px;
+}
+
+.foter_one_icon{
+	text-align: center;
+}
+
+ }
+
+  @media (min-width: 481px) and (max-width: 575px) {
+	.navbar-toggler i{
+		color: #ffffff;
+		font-size: 22px;
+	}
+	.navbar-light .navbar-toggler {
+		color: transparent;
+		border: 1px solid #ffffff;
+	}
+	.nav_main ul li a{
+		text-align: center;
+	}
+	.nav_icon{
+		text-align: center;
+	}
+	#banner {
+		padding-bottom: 30px;
+		padding-top: 140px;
+	}
+	#banner .banner_text h2 {
+		font-size: 38px;
+		line-height: 67px;
+	
+	}
+	#banner .banner_text h2::after {
+	opacity: 0;
+	}
+
+	#about .about_head h3::after {
+	opacity: 0;
+	}
+	#about .counter_item {
+		padding: 6px 0px;
+		margin-top: 30px;
+	}
+	#banner .banner_icon {
+		padding-top: 70px;
+	}
+
+	#popular .popular_head h3::after {
+		opacity: 0;
+	}
+	
+
+	.slick-slide img {
+		width: 100%;
+	}
+	.popularak {
+		top: 58% !important;
+		right: 5% !important;
+		font-size: 16px;
+		height: 30px;
+		width: 30px;
+		line-height: 30px !important;
+		
+	}
+	.populardui{
+		top: 70% !important;
+		right: 5% !important;
+		font-size: 16px;
+		height: 30px;
+		width: 30px;
+		line-height: 30px !important;
+		
+	}
+
+	#video .video_head h3::after {
+		opacity: 0;
+	}
+	#video .video_item {
+		margin-top: 30px;
+	}
+
+	#store .store_head h3::after {
+	opacity: 0;;
+	}
+	#store .pre {
+		left: 2%;
+		
+	}
+	#store .next {
+		right: 2%;
+		
+	}
+	#team .team_head h3::after {
+		display: none !important;
+	}
+	#team .team_item {
+		margin-bottom: 20px;
+	}
+	#faq .faq_head h3::after {
+		opacity: 0;
+	}
+	#faq .faq_inner_main::after {
+		bottom: 5%;
+	}
+
+	#video .contest_left a {
+		padding-left: 139px;
+	}
+
+	#video .contest_right a {
+		padding-right: 141px;
+	}
+	#footer .foter_one{
+		text-align: center;
+		margin-top: 10px;
+	
+	}
+
+	#footer .foter_two{
+		text-align: center;
+		margin-top: 10px;
+	
+	}
+
+	#footer .foter_three{
+		text-align: center;
+		margin-top: 10px;
+	
+	}
+
+	#footer .foter_four{
+		text-align: center;
+		margin-top: 10px;
+	
+	}
+	#footer .foter_one_icon {
+		text-align: center;
+	}
+ } 
+
+ 
+
+
+  @media (min-width: 576px) and (max-width: 767.98px) {
+	.navbar-toggler i{
+		color:#ffffff;
+		font-size: 22px;
+	}
+	.navbar-light .navbar-toggler {
+		color: transparent;
+		border: 1px solid #ffffff;
+	}
+	.nav_main ul li a{
+		text-align: center;
+	}
+	.nav_icon{
+		text-align: center;
+	}
+	#banner {
+		padding-bottom: 60px;
+		padding-top: 140px;
+	}
+	#banner .banner_text h2::after {
+		opacity: 0;
+	}
+	
+	#banner .banner_icon {
+		padding-top: 80px;
+	}
+
+	#about .about_head h3::after {
+		opacity: 0;
+	}
+
+	#about .counter_item {
+		margin: 10px 0;
+	}
+
+	#popular .slick-slide img{
+		width: 100%;
+	}
+.popularak {
+		top: 58% !important;
+		right: 7% !important;
+		font-size: 16px;
+		height: 30px;
+		width: 30px;
+		line-height: 30px !important;
+		
+	}
+	.populardui{
+		top: 70% !important;
+		right: 7% !important;
+		font-size: 16px;
+		height: 30px;
+		width: 30px;
+		line-height: 30px !important;
+		
+	}
+
+	#video .video_head h3::after {
+		opacity: 0;
+	}
+	#video .video_item {
+	margin: 20px 0;
+	}
+
+	#store .store_head h3::after {
+		opacity: 0;
+	}
+	#store .pre {
+		top: 61%;
+		left: 4%;
+	}
+	#store .next {
+		top: 62%;
+		right: 5%;
+	}
+	#faq .faq_head h3::after {
+		opacity: 0;
+	}
+	#faq .faq_inner_main::after {
+		bottom: 6%;
+	}
+	#team .team_item {
+		margin-bottom: 20px;
+	}
+	#footer .foter_one{
+		text-align: center;
+		margin-top: 10px;
+	
+	}
+
+	#footer .foter_two{
+		text-align: center;
+		margin-top: 10px;
+	
+	}
+
+	#footer .foter_three{
+		text-align: center;
+		margin-top: 10px;
+	
+	}
+
+	#footer .foter_four{
+		text-align: center;
+		margin-top: 10px;
+	
+	}
+	#footer .foter_one_icon {
+		text-align: center;
+	}
+
+
+
+ }
+ 
+ @media (min-width: 768px) and (max-width: 991.98px) { 
+	#banner {
+		padding-bottom: 80px;
+		padding-top: 230px;
+		
+	}
+	.navbar-toggler i{
+		color:#ffffff;
+		font-size: 26px;
+	}
+	.navbar-light .navbar-toggler {
+		color: transparent;
+		border: 1px solid #ffffff;
+	}
+	.nav_main ul li a{
+		text-align: center;
+	}
+	.nav_icon{
+		text-align: center;
+	}
+	#banner .banner_icon {
+		padding-top: 90px;
+	}
+	#about .counter_item {
+	margin-top: 20px;
+	}
+
+	.slick-slide img {
+		width: 100%;
+	}
+	.popularak {
+		top: 58% !important;
+		right: 7% !important;
+		font-size: 16px;
+		height: 30px;
+		width: 30px;
+		line-height: 30px !important;
+		
+	}
+	.populardui{
+		top: 70% !important;
+		right: 7% !important;
+		font-size: 16px;
+		height: 30px;
+		width: 30px;
+		line-height: 30px !important;
+		
+	}
+	#video .video_head h3::after {
+		right: 430px;
+	}
+	#faq .faq_head h3::after {
+		right: 375px;
+	}
+	#video .video_item .video_item_overly i {
+		font-size: 21px;
+		padding: 14px;
+		
+	}
+	#video .contest_left a {
+		padding-left: 0px;
+	}
+
+	#video .contest_right a {
+		padding-right: 0px;
+	}
+
+
+	#store .store_head h3::after {
+	opacity: 0;
+	}
+
+	#store .pre {
+		left: 11% !important;
+	}
+	#store .next {
+		right: 11% !important;
+		
+	}
+	#footer .foter_one{
+		text-align: center;
+		margin-top: 10px;
+	
+	}
+
+	#footer .foter_two{
+		text-align: center;
+		margin-top: 10px;
+	
+	}
+
+	#footer .foter_three{
+		text-align: center;
+		margin-top: 10px;
+	
+	}
+
+	#footer .foter_four{
+		text-align: center;
+		margin-top: 10px;
+	
+	}
+	#footer .foter_one_icon {
+		text-align: center;
+	}
+	
+
+  }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	.slick-slide img{
+		width: 100%;
+	}
+	#about .about_head h3::after {
+		right: -24px;
+        bottom: 12px;
+	}
+	.popularak {
+		top: 58% !important;
+		right: 8% !important;
+	}
+	.populardui {
+		top: 68% !important;
+		right: 8% !important;
+	}
+	#video .video_head h3::after {
+		right: 201px;
+	}
+	#video .contest_left a {
+		padding-left: 67px;
+	}
+	#video .contest_right a {
+		padding-right: 65px;
+	}
+	#store .store_head h3::after {
+		right: 134px;
+	}
+	#store .pre {
+		top: 56%;
+		left: 2%;
+		
+	}
+
+
+	#store .next {
+		top: 57%;
+		right: 3%;
+	}
+	#store .slick-active .store_item img {
+		height: 100%;
+	}
+
+	#faq .faq_head h3::after {
+		right: 150px;
+	}
+
+ } 
+
+
+ @media (min-width: 1200px) and (max-width: 1399.98px) { 
+
+	#banner .banner_text h2::after {
+		right: -72px;
+	}
+
+	#about .about_head h3::after {
+		right: 230px;
+	}
+
+	#popular .slick-slide img {
+		width: 100%;
+	}
+
+	.popularak {
+		right: 8% !important;
+
+	}
+	.populardui {
+		right: 8% !important;
+	}
+	#video .video_head h3::after {
+		right: 290px;
+	}
+
+	#video .contest_left a {
+		padding-left: 141px;
+	}
+
+	#video .contest_right a {
+		padding-right: 137px;
+	
+	}
+	#store .store_head h3::after {
+		right: 220px;
+	}
+
+
+	#faq .faq_head h3::after {
+		height: 2px;
+		right: 240px;
+	}
+
+	#store .pre {
+		left: 2%;
+	}
+
+	#store .next {
+		right: 3%;
+		
+	}
+
+ }
